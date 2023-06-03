@@ -7,9 +7,9 @@
     "simplebar": "^5.3.8",
     "start": "^5.1.0"
   },
-  "name": "uv-app",
+  "name": "terbium-os",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Terbium instance",
   "type": "module",
   "main": "index.js",
   "scripts": {
