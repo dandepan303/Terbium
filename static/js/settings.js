@@ -1385,7 +1385,7 @@ exportSettings.addEventListener("click", () => {
     if(localStorage.getItem("powd")) {
         powd = `[shutdown]"${localStorage.getItem('powd')}"`;
     } else {
-        powd = `[shutdown]"https://google.com"`;
+        powd = `[shutdown]"https://classroom.google.com"`;
     }
     if(localStorage.getItem("ss")) {
         ss = `[safeSearch]"${localStorage.getItem('ss')}"`;
